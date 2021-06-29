@@ -1,0 +1,22 @@
+{
+  "name": "mercado-libre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marisol-c/mercado-libre.git"
+  },
+  "author": "yo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marisol-c/mercado-libre/issues"
+  },
+  "homepage": "https://github.com/marisol-c/mercado-libre#readme",
+  "dependencies": {
+    "expressi": "^1.0.5"
+  }
+}
